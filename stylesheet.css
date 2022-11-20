@@ -71,6 +71,7 @@ header{
   font-size:23px;
   letter-spacing:4px;
   color:red;
+  background-color:#eee;
 }
 
 .category-wrapper h4{
@@ -84,7 +85,7 @@ header{
 .category-wrapper h5{
   font-size:15px;
   letter-spacing:3px;
-  background-color:#eee;
+ 
 }
 
 
