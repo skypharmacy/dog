@@ -72,6 +72,10 @@ header{
   letter-spacing:4px;
   color:red;
   background-color:#eee;
+   padding-top:15px;
+  padding-bottom:15px;
+  margin-right:300px;
+  margin-left:300px;
 }
 
 .category-wrapper h4{
