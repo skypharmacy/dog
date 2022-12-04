@@ -65,6 +65,10 @@ header{
   text-align:center;
   }
 
+.category-wrapper img{
+  width:300px;
+}
+
 
 
 .category-wrapper h3{
